@@ -1,7 +1,7 @@
 // ConsoleApplication2.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+#include "stdafx.h" //ignorati asta
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
